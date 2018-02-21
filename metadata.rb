@@ -1,5 +1,5 @@
-maintainer        "Gerhard Lazu"
-maintainer_email  "gerhard@lazu.co.uk"
+maintainer        "swarna ravi"
+maintainer_email  "swarnaravistar@gmail.com"
 license           "Apache 2.0"
 description       "Installs and configures splunk server & forwarder"
 version           "0.1.0"
